@@ -1,0 +1,10 @@
+import { createStore, applyMiddleware } from 'redux';
+import thunk from 'redux-thunk';
+import rootReducer from './../reducers/main.js';
+import { createLogger } from 'redux-logger'
+
+/* START SOLUTION */
+export default createStore(
+    rootReducer,
+    applyMiddleware(createLogger())
+);

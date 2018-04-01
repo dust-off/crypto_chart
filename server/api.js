@@ -1,5 +1,5 @@
 // this is to support both browser and node
-var SDK = typeof window !== 'undefined' ? window.COIN_API_SDK : require("./coinapi_v1")["default"]
+var SDK = require("./coinapi_v1")["default"]
 
 var sdk = new SDK("YOUR_API_KEY_HERE")
 

@@ -27,17 +27,20 @@ const chartData = {
     ]
 }
 
-const Graph = ({ test }) => (
-    <div className='chart'>
-        graph page
+const Graph = ({ test }) => {
+    // console.log(props);
+    return (
+        <div className='chart'>
+            graph page
         {test}
-        <Bar
-            data={chartData}
-            options={{
-                maintainAspectRatio: false
-            }}
-        />
-    </div>
-)
+            <Bar
+                data={chartData}
+                options={{
+                    maintainAspectRatio: false
+                }}
+            />
+        </div>
+    )
+}
 
 export default Graph

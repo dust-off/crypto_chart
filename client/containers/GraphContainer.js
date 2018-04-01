@@ -3,7 +3,8 @@ import Graph from './../components/Graph.jsx';
 import triggerTest from './../actions/testRun.js';
 
 var mapStateToProps = (state) => ({
-    test: state.testReducer
+    test: state.testReducer,
+    raw: state.setGraphDataReducer,
 });
 
 var mapDispatchToProps = (dispatch) => ({

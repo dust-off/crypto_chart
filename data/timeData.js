@@ -1068,10 +1068,10 @@ const timeData = [
         "trades_count": 1
     },
     {
-        "time_period_start": "2016-01-01T02:44:00.0000000Z",
-        "time_period_end": "2016-01-01T02:45:00.0000000Z",
-        "time_open": "2016-01-01T02:44:15.2230000Z",
-        "time_close": "2016-01-01T02:44:15.2230000Z",
+        "time_period_start": "2016-02-01T02:44:00.0000000Z",
+        "time_period_end": "2016-02-01T02:45:00.0000000Z",
+        "time_open": "2016-02-01T02:44:15.2230000Z",
+        "time_close": "2016-02-01T02:44:15.2230000Z",
         "price_open": 431.66,
         "price_high": 431.66,
         "price_low": 431.66,
@@ -1080,10 +1080,10 @@ const timeData = [
         "trades_count": 1
     },
     {
-        "time_period_start": "2016-01-01T02:46:00.0000000Z",
-        "time_period_end": "2016-01-01T02:47:00.0000000Z",
-        "time_open": "2016-01-01T02:46:17.4330000Z",
-        "time_close": "2016-01-01T02:46:17.9030000Z",
+        "time_period_start": "2016-02-01T02:46:00.0000000Z",
+        "time_period_end": "2016-02-01T02:47:00.0000000Z",
+        "time_open": "2016-02-01T02:46:17.4330000Z",
+        "time_close": "2016-02-01T02:46:17.9030000Z",
         "price_open": 430.59,
         "price_high": 430.59,
         "price_low": 430.59,
@@ -1092,10 +1092,10 @@ const timeData = [
         "trades_count": 2
     },
     {
-        "time_period_start": "2016-01-01T02:50:00.0000000Z",
-        "time_period_end": "2016-01-01T02:51:00.0000000Z",
-        "time_open": "2016-01-01T02:50:04.6070000Z",
-        "time_close": "2016-01-01T02:50:48.3200000Z",
+        "time_period_start": "2016-02-01T02:50:00.0000000Z",
+        "time_period_end": "2016-02-01T02:51:00.0000000Z",
+        "time_open": "2016-02-01T02:50:04.6070000Z",
+        "time_close": "2016-02-01T02:50:48.3200000Z",
         "price_open": 431.66,
         "price_high": 431.66,
         "price_low": 430.98,
@@ -1104,10 +1104,10 @@ const timeData = [
         "trades_count": 2
     },
     {
-        "time_period_start": "2016-01-01T02:51:00.0000000Z",
-        "time_period_end": "2016-01-01T02:52:00.0000000Z",
-        "time_open": "2016-01-01T02:51:05.9870000Z",
-        "time_close": "2016-01-01T02:51:22.1500000Z",
+        "time_period_start": "2016-02-01T02:51:00.0000000Z",
+        "time_period_end": "2016-02-01T02:52:00.0000000Z",
+        "time_open": "2016-02-01T02:51:05.9870000Z",
+        "time_close": "2016-02-01T02:51:22.1500000Z",
         "price_open": 430.91,
         "price_high": 430.91,
         "price_low": 430.47,
@@ -1116,10 +1116,10 @@ const timeData = [
         "trades_count": 2
     },
     {
-        "time_period_start": "2016-01-01T02:52:00.0000000Z",
-        "time_period_end": "2016-01-01T02:53:00.0000000Z",
-        "time_open": "2016-01-01T02:52:52.9500000Z",
-        "time_close": "2016-01-01T02:52:52.9500000Z",
+        "time_period_start": "2016-02-01T02:52:00.0000000Z",
+        "time_period_end": "2016-02-01T02:53:00.0000000Z",
+        "time_open": "2016-02-01T02:52:52.9500000Z",
+        "time_close": "2016-02-01T02:52:52.9500000Z",
         "price_open": 430.47,
         "price_high": 430.47,
         "price_low": 430.47,
@@ -1128,10 +1128,10 @@ const timeData = [
         "trades_count": 1
     },
     {
-        "time_period_start": "2016-01-01T02:58:00.0000000Z",
-        "time_period_end": "2016-01-01T02:59:00.0000000Z",
-        "time_open": "2016-01-01T02:58:01.4530000Z",
-        "time_close": "2016-01-01T02:58:01.4530000Z",
+        "time_period_start": "2016-02-01T02:58:00.0000000Z",
+        "time_period_end": "2016-02-01T02:59:00.0000000Z",
+        "time_open": "2016-02-01T02:58:01.4530000Z",
+        "time_close": "2016-02-01T02:58:01.4530000Z",
         "price_open": 430.57,
         "price_high": 430.57,
         "price_low": 430.57,
@@ -1140,10 +1140,10 @@ const timeData = [
         "trades_count": 1
     },
     {
-        "time_period_start": "2016-01-01T03:02:00.0000000Z",
-        "time_period_end": "2016-01-01T03:03:00.0000000Z",
-        "time_open": "2016-01-01T03:02:29.2400000Z",
-        "time_close": "2016-01-01T03:02:29.2400000Z",
+        "time_period_start": "2016-02-01T03:02:00.0000000Z",
+        "time_period_end": "2016-02-01T03:03:00.0000000Z",
+        "time_open": "2016-02-01T03:02:29.2400000Z",
+        "time_close": "2016-02-01T03:02:29.2400000Z",
         "price_open": 430.5,
         "price_high": 430.5,
         "price_low": 430.5,
@@ -1152,10 +1152,10 @@ const timeData = [
         "trades_count": 1
     },
     {
-        "time_period_start": "2016-01-01T03:03:00.0000000Z",
-        "time_period_end": "2016-01-01T03:04:00.0000000Z",
-        "time_open": "2016-01-01T03:03:35.0730000Z",
-        "time_close": "2016-01-01T03:03:49.4730000Z",
+        "time_period_start": "2016-02-01T03:03:00.0000000Z",
+        "time_period_end": "2016-02-01T03:04:00.0000000Z",
+        "time_open": "2016-02-01T03:03:35.0730000Z",
+        "time_close": "2016-02-01T03:03:49.4730000Z",
         "price_open": 430.5,
         "price_high": 430.5,
         "price_low": 430.5,
@@ -1164,10 +1164,10 @@ const timeData = [
         "trades_count": 2
     },
     {
-        "time_period_start": "2016-01-01T03:04:00.0000000Z",
-        "time_period_end": "2016-01-01T03:05:00.0000000Z",
-        "time_open": "2016-01-01T03:04:41.3400000Z",
-        "time_close": "2016-01-01T03:04:42.6200000Z",
+        "time_period_start": "2016-02-01T03:04:00.0000000Z",
+        "time_period_end": "2016-02-01T03:05:00.0000000Z",
+        "time_open": "2016-02-01T03:04:41.3400000Z",
+        "time_close": "2016-02-01T03:04:42.6200000Z",
         "price_open": 430.14,
         "price_high": 430.14,
         "price_low": 430.03,
@@ -1176,10 +1176,10 @@ const timeData = [
         "trades_count": 2
     },
     {
-        "time_period_start": "2016-01-01T03:05:00.0000000Z",
-        "time_period_end": "2016-01-01T03:06:00.0000000Z",
-        "time_open": "2016-01-01T03:05:24.5130000Z",
-        "time_close": "2016-01-01T03:05:35.9430000Z",
+        "time_period_start": "2016-02-01T03:05:00.0000000Z",
+        "time_period_end": "2016-02-01T03:06:00.0000000Z",
+        "time_open": "2016-02-01T03:05:24.5130000Z",
+        "time_close": "2016-02-01T03:05:35.9430000Z",
         "price_open": 430.49,
         "price_high": 430.49,
         "price_low": 430.48,
@@ -1188,10 +1188,10 @@ const timeData = [
         "trades_count": 2
     },
     {
-        "time_period_start": "2016-01-01T03:06:00.0000000Z",
-        "time_period_end": "2016-01-01T03:07:00.0000000Z",
-        "time_open": "2016-01-01T03:06:31.8730000Z",
-        "time_close": "2016-01-01T03:06:52.4900000Z",
+        "time_period_start": "2016-02-01T03:06:00.0000000Z",
+        "time_period_end": "2016-02-01T03:07:00.0000000Z",
+        "time_open": "2016-02-01T03:06:31.8730000Z",
+        "time_close": "2016-02-01T03:06:52.4900000Z",
         "price_open": 430.5,
         "price_high": 430.5,
         "price_low": 430.03,

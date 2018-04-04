@@ -1,6 +1,6 @@
 var runTest = (string) => ({
     type: 'RUN_TEST',
-    test: string
+    payload: string
 });
 
 export default runTest;

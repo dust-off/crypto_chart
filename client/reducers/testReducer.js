@@ -4,7 +4,7 @@ var testReducer = (state = [], action) => {
     switch (action.type) {
         case 'RUN_TEST':
             console.log('RUN_TEST')
-            return action.test;
+            return action.payload;
         default:
             return state;
     }

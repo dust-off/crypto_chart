@@ -1,15 +1,16 @@
 import { connect } from 'react-redux';
 import Graph from './../components/Graph.jsx';
-import triggerTest from './../actions/testRun.js';
+import { setGraphData } from './../actions/graphData';
+// import raw from '../../data/timeData'
 
 var mapStateToProps = (state) => ({
     test: state.testReducer,
-    raw: state.setGraphDataReducer,
+    graph: state.graph,
 });
 
 var mapDispatchToProps = (dispatch) => ({
-    handleGraphEntryTitleClick: (text) => {
-        dispatch(triggerTest(text));
+    handleGraphDateChange: (date) => {
+        dispatch(setGraphData(date));
     }
 });
 

@@ -1,11 +1,13 @@
 import { combineReducers } from 'redux';
-import testReducer from './testReducer.js';
-import setGraphDataReducer from './graphDataReducers.js';
-// import videoList from './videoList.js';
+import test from './testReducer.js';
+import graph from './graphDataReducers.js';
 
-var rootReducer = combineReducers({
-    testReducer,
-    setGraphDataReducer,
+// var rootReducer = combineReducers({
+//     test,
+//     graph,
+// });
+
+export default combineReducers({
+    test,
+    graph,
 });
-
-export default rootReducer;
